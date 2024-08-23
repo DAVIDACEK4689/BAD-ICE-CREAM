@@ -1,0 +1,272 @@
+16
+11
+XXXXXXXXXXXXXXXX
+XBBiiiivBB   BBX
+Xiiii>     v   X
+X   B     <  B X
+X   iiiiiii    X
+XXXXXXX  XXXXXXX
+X            < X
+X  iiiiiiiiiii X
+XXX XXXXXXX    X
+Xa           ^ X
+XXXXXXXXXXXXXXXX
+
+16
+20
+XXXXXXXXXXXXXXXX
+X BB  ii     BBX
+XiiXXXXXii    BX
+X>   a    iiii X
+X<   BBB  iBXi X
+Xv   BBB  iiii X
+X>   BBB   <   X
+X    BBB   <   X
+XXXXXX XXXXXX  X
+X   >    <     X
+X  XXXXXXXXXXXXX
+X   <>v^      BX
+X   v  iiiiiiiiX
+X   >         BX
+X   <  BBBB    X
+XXX  X BBBB    X
+X      BBBB    X
+XB         <  BX
+XBB     i    BBX
+XXXXXXXXXXXXXXXX
+
+16
+16
+XXXXXXXXXXXXXXXX
+XBBBBBBBBBBBBBBX
+XiiiiiiiiiiiiiiX
+X XXXX XXXXXXX X
+Xv    BBBB  v vX
+XXXiiiiiiiii X X
+X   BB    a   <X
+X BBBB >   ii  X
+XXXXXXXXXXXXXX X
+XXXX   XXXXXXX X
+X iiiiiiiiiiiX X
+X        v   X X
+X   BBB      X X
+X   BBB <XXXXXiX
+X             BX
+XXXXXXXXXXXXXXXX
+
+16
+11
+XXXXXXXXXXXXXXXX
+XvvvvvvvvvvvvvvX
+X              X
+X              X
+XBBBBBBBBBBBBBBX
+XBBBBXXXXXBBBBBX
+XBBBBBXBXBBBBBBX
+X      <       X
+X       >      X
+X  ^  a      < X
+XXXXXXXXXXXXXXXX
+
+16
+30
+XXXXXXXXXXXXXXXX
+XBB  X    X BBXX
+XB   X   BX  BXX
+X    X   BX   XX
+X   <>v^  X   XX
+X    X    X   XX
+X    X    <iiiXX
+XBB  X    XiBiXX
+Xv   X    XiBiXX
+X      a  XiBiXX
+XXXXXX XX XXiXXX
+X   BBB X Xv> XX
+X XXXX  X X   XX
+X   BX  X XBBBXX
+X   BX  X XBBBXX
+X    X  X^XB   X
+X    X  X XiiiiX
+XBBBBX  X XBBiiX
+XXXXXX  X XiiiiX
+X   BBBBX XXiXXX
+XXXXXXXXX XXiiiX
+XBB   <X iXXXXiX
+Xv    BX>   X BX 
+X XXXX XBX  X  X
+X       BX  iiiX
+X  XXXXXBX  iBiX
+X     vX X  iiiX
+XB     X X    XX
+XBB    XB    <BX
+XXXXXXXXXXXXXXXX
+
+16
+11
+XXXXXXXXXXXXXXXX
+X>    vvvvv   BX
+XB            <X
+XB      X     <X
+X>>>   X   <<< X
+XiiiiiiiiiiiiiiX
+Xii>iiiiXiiiiiBX
+XBiiiiiiiiiiiiiX
+XiiiiiiXiiiB<iiX
+XiiiiiiiaiiiiiiX
+XXXXXXXXXXXXXXXX
+
+16
+14
+XXXXXXXXXXXXXXXX
+XBBBBBBBBBBBBBBX
+Xvv     vv   vvX
+XBB     vv   BBX
+Xvv     vv   ^^X
+XXXXXXXX  XXXXXX
+Xa   >    iiiiBX
+XBiiiiii  BBBBBX
+XXXXXXXX  XXXXXX
+X>          BBBX
+XBBB          <X
+X>            <X
+X>    BBB    <<X
+XXXXXXXXXXXXXXXX
+
+10
+10
+XXXXXXXXXX
+Xv   <   X
+X  BBBBB<X
+Xv BBBBBaX
+X  BBBBB<X
+Xv BBBBBBX
+X  BBBBBiX
+Xviiiiii^X
+XB> ^ >XBX
+XXXXXXXXXX
+
+16
+11
+XXXXXXXXXXXXXXXX
+XB    <  v  <BBX
+X X   >  v    BX
+X>X      v   <aX
+X   BB   XXXXXBX
+XX   v v v     X
+X          XXXXX
+X >        XiiiX
+X   ^ ^ ^ ^ iiBX
+X >   BBB  XiBBX
+XXXXXXXXXXXXXXXX
+
+16
+16
+XXXXXXXXXXXXXXXX
+XBB iviviviviBBX
+XB > v ^ < v ^BX
+XBv v v v v v BX
+XX X X X X X XXX
+Xi X X X X X iBX
+XBBBBBBBBBBBBBBX
+XvvvvvvvvvvvvvvX
+XvXvXvXvXvXvXvBX
+XiiiiiBiiiBiiiBX
+X >    a   B   X
+X  >      <XXX X
+X   >    <XXX iX
+XB   >  < XBi iX
+XBB   ><  BBX BX
+XXXXXXXXXXXXXXXX
+
+16
+11
+XXXXXXXXXXXXXXXX
+XiiiiiiiaiiiiBiX
+XiiiiiiiiBiiiiiX
+XiiBiiiiiiiiiiiX
+XiiiiiiiiiiiiBiX
+XiiiBiiiiiiiiiiX
+XiiiiiiiiBiiiiiX
+X^^^^^^^^^^^^^^X
+X^^^^^^^^^^^^^^X
+XBBBBBBBBBBBBBBX
+XXXXXXXXXXXXXXXX
+
+11
+11
+XXXXXXXXXXX
+XBBBB<BBBBX
+XBiiiiiBBBX
+XB      < X
+X   Bia   X
+XB>      BX
+XB  ^   <BX
+XBB   ^BBBX
+XBiiiiiiiiX
+XBBB>BBBBBX
+XXXXXXXXXXX
+
+16
+11
+XXXXXXXXXXXXXXXX
+XBBBBBBBvBBBBBBX
+XB>BBBBBBBBBBBBX
+XBBBBBBBBBBvBBBX
+XvBBBBBBvvBBBBBX
+XBBBBBBBBBBB>BBX
+XBBBBB^BBBBBBBBX
+X>BBBBBBBBBBBBBX
+XBBBB^BBBBBBBBBX
+Xa      <<^^^^^X
+XXXXXXXXXXXXXXXX
+
+16
+20
+XXXXXXXXXXXXXXXX
+XaXBBBBBBBBBBBBX
+X X>  v  v  v  X
+X XX  B  B  B  X
+X  X   iiX    vX
+X XX   iBX    <X
+X BXX  iiX    >X
+X BBX   BBB   BX
+X^BXXXXXX      X
+X>BXBv BX>     X
+X^BX  v XBXBX <X
+X XX   ^X>     X
+XB>BBBBBXXXvBBBX
+XBB  iiiXiiiii X
+X X X X X XXXXXX
+XiiiiiiiiiiiiiiX
+X>BBvBBBBBBBBvBX
+XBBBBBBBBB^BBBBX
+XBBBBB^BBBBBBB<X
+XXXXXXXXXXXXXXXX
+
+16
+11
+XXXXXXXXXXXXXXXX
+XBBBBBBBBBBBBBBX
+Xv v iBiBiv v v X
+X v v BBB v v  X
+Xv v X v X v v X
+XX X X X X X X X
+XB i B i B i XaX
+XBBBBBBBBBBBBBBX
+X ^ ^ iBi ^ ^ vX
+XBBBBBBBBBBBBBBX
+XXXXXXXXXXXXXXXX
+
+12
+11
+XXXXXXXXXXXX
+XB<>^     vX
+X XXBXXXX BX
+X BXXXBBXX X
+X^     BXv X
+X v BB  ^X X
+X^  v XXXX X
+XBBBBBXBBX X
+XXXBXXXBB> X
+Xa        <X
+XXXXXXXXXXXX
